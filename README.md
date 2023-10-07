@@ -11,6 +11,7 @@ Feel free to copy these into repl.it and edit them, definitely encourage you to 
     * Indexes
     * Substring
     * Concatenation
+* Data Validation
 
 # Session 2
 * Sequencing
