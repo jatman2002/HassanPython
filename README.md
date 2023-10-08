@@ -19,6 +19,9 @@ Feel free to copy these into repl.it and edit them, definitely encourage you to 
 * Iteration
     * Definite Iteration
     * Indefinite Interation
+* Lists / Arrays
+    * List iteration
+    * 2-D Lists / Arrays
 
 # Session 3
 * Procedures?
