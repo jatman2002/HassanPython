@@ -24,5 +24,8 @@ Feel free to copy these into repl.it and edit them, definitely encourage you to 
     * 2-D Lists / Arrays
 
 # Session 3
-* Procedures?
-* Functions?
+* Generating random numbers
+* Procedures
+* Functions
+* Global vs Local variables
+* Validation
