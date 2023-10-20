@@ -26,6 +26,10 @@ Feel free to copy these into repl.it and edit them, definitely encourage you to 
 # Session 3
 * Generating random numbers
 * Procedures
+
+# Session 4
+* Truth table examples (see the spreadsheet)
+* Q7 from 2022 paper (see Lesson4.py)
 * Functions
 * Global vs Local variables
 * Validation
