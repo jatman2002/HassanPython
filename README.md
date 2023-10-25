@@ -29,3 +29,7 @@ Feel free to copy these into repl.it and edit them, definitely encourage you to 
 * Functions
 * Global vs Local variables
 * Validation
+
+# Session 4
+* Truth table examples (see the spreadsheet)
+* Q7 from 2022 paper (see Lesson4.py)
